@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int A[5][5] = 0;
+	int A[5][5] = {0};
 	for(int i=0;i<5;i++)
 	{
 		for(int j=0;j<=i;j++)
