@@ -8,8 +8,8 @@ int main()
 	{
 		for(int j=0;j<4;j++)
 		{
-			cin >> [i][j];
-			sum = [i][j] + sum;
+			cin >> A[i][j];
+			sum = A[i][j] + sum;
 		}
 		cout << sum;
 	} 
