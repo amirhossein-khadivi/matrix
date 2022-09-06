@@ -14,7 +14,7 @@ int main()
 	{
 		for(int j=0;j<=i;j++)
 		{
-			cout << a[i][j];
+			cout << A[i][j];
 		}
     }
 	return 0;
