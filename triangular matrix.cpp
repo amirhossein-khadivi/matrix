@@ -16,6 +16,7 @@ int main()
 		{
 			cout << A[i][j];
 		}
+		cout << endl;
     }
 	return 0;
 }
